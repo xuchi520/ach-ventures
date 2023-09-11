@@ -59,7 +59,7 @@
           </div>
           <div class="portfolio-li-con">
             <div class="p-li-title">UpHonest Capital</div>
-            <div class="p-li-txt">An early-stage VC firm focused on partnering with great entrepreneurs to build global companies in the world's largest markets.</div>
+            <div class="p-li-txt" style="font-size: 14px;">An early-stage VC firm focused on partnering with great entrepreneurs to build global companies in the world's largest markets.</div>
             <div class="p-li-con">
               <img @click="goLinck('https://www.uphonestcapital.com/')" src="../../../assets/images/svg/svg1.svg" alt="" srcset="">
               <img @click="goLinck('https://twitter.com/UpHonestCapital')" src="../../../assets/images/svg/svg2.svg" alt="" srcset="">
@@ -415,7 +415,8 @@ export default defineComponent({
           }
 
           .p-li-txt {
-            width: 232px;
+            height: 88px;
+            width: 235px;
             font-weight: 400;
             margin-top: 12px;
           }
@@ -472,7 +473,7 @@ export default defineComponent({
           display: flex;
           align-items: center;
           justify-content: center;
-          width: 250px;
+          width: 100;
           height: 250px;
           border: 1px solid rgba(0, 0, 0, 0.10);
           background: #FFF;
