@@ -6,6 +6,7 @@ import 'element-plus/dist/index.css'
 import 'animate.css';
 import 'amfe-flexible'
 import { createPinia } from 'pinia';
+import "animate.css/animate.min.css";
 const pinia = createPinia()
 const app = createApp(App)
 app.use(router)

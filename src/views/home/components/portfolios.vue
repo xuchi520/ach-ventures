@@ -116,13 +116,14 @@
         <div class="con-title-line"></div>
       </div>
       <div class="portfolio-listt">
+        <!-- 1 -->
         <div class="portfolio-li">
           <div class="portfolio-li-imgst">
-            <img class="portfolio-li-imgt" src="../../../assets/images/projects-1.png" alt="" srcset="">
+            <img class="portfolio-li-imgt1" src="../../../assets/images/projects/1.png" alt="" srcset="">
           </div>
-          <div class="portfolio-li-cont">
-            <img class="portfolio-li-cont-img" src="../../../assets/images/projects-hover-1.png" alt="" srcset="">
-            <div class="p-li-title">Nomad Capital</div>
+          <div class="portfolio-li-cont animate__animated animate__fadeIn" >
+            <img class="portfolio-li-cont-img" src="../../../assets/images/projects/dark-1.png" alt="" srcset="">
+            <div class="p-li-title">ShangBay Capital</div>
             <div class="p-li-txt">Description text instance, up to two lines</div>
             <div class="p-li-con">
               <img src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
@@ -131,12 +132,13 @@
             </div>
           </div>
         </div>
+        <!-- 2 -->
         <div class="portfolio-li">
           <div class="portfolio-li-imgst" style="background-color: #EEE;">
-            <img class="portfolio-li-imgt" src="../../../assets/images/projects-2.png" alt="" srcset="">
+            <img class="portfolio-li-imgt2" src="../../../assets/images/projects/2.png" alt="" srcset="">
           </div>
-          <div class="portfolio-li-cont">
-            <img class="portfolio-li-cont-img" src="../../../assets/images/projects-hover-1.png" alt="" srcset="">
+          <div class="portfolio-li-cont animate__animated animate__fadeIn">
+            <img class="portfolio-li-cont-img" src="../../../assets/images/projects/dark-2.png" alt="" srcset="">
             <div class="p-li-title">Nomad Capital</div>
             <div class="p-li-txt">Description text instance, up to two lines</div>
             <div class="p-li-con">
@@ -146,12 +148,29 @@
             </div>
           </div>
         </div>
+        <!-- 3 -->
         <div class="portfolio-li">
           <div class="portfolio-li-imgst" style="background-color: #FFF;">
-            <img class="portfolio-li-imgt" src="../../../assets/images/projects-1.png" alt="" srcset="">
+            <img class="portfolio-li-imgt3" src="../../../assets/images/projects/3.png" alt="" srcset="">
           </div>
-          <div class="portfolio-li-cont">
-            <img class="portfolio-li-cont-img" src="../../../assets/images/projects-hover-1.png" alt="" srcset="">
+          <div class="portfolio-li-cont animate__animated animate__fadeIn">
+            <img class="portfolio-li-cont-img" src="../../../assets/images/projects/dark-3.png" alt="" srcset="">
+            <div class="p-li-title">Nomad Capital</div>
+            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-con">
+              <img src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
+              <img src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
+              <img src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
+            </div>
+          </div>
+        </div>
+        <!-- 4 -->
+        <div class="portfolio-li">
+          <div class="portfolio-li-imgst" style="background-color: #EEE;">
+            <img class="portfolio-li-imgt4" src="../../../assets/images/projects/4.png" alt="" srcset="">
+          </div>
+          <div class="portfolio-li-cont animate__animated animate__fadeIn">
+            <img class="portfolio-li-cont-img" src="../../../assets/images/projects/dark-4.png" alt="" srcset="">
             <div class="p-li-title">Nomad Capital</div>
             <div class="p-li-txt">Description text instance, up to two lines</div>
             <div class="p-li-con">
@@ -163,10 +182,116 @@
         </div>
         <div class="portfolio-li">
           <div class="portfolio-li-imgst" style="background-color: #EEE;">
-            <img class="portfolio-li-imgt" src="../../../assets/images/projects-1.png" alt="" srcset="">
+            <img class="portfolio-li-imgt5" src="../../../assets/images/projects/5.png" alt="" srcset="">
           </div>
-          <div class="portfolio-li-cont">
-            <img class="portfolio-li-cont-img" src="../../../assets/images/projects-hover-1.png" alt="" srcset="">
+          <div class="portfolio-li-cont animate__animated animate__fadeIn">
+            <img class="portfolio-li-cont-img" src="../../../assets/images/projects/dark-5.png" alt="" srcset="">
+            <div class="p-li-title">Nomad Capital</div>
+            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-con">
+              <img src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
+              <img src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
+              <img src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
+            </div>
+          </div>
+        </div>
+        <div class="portfolio-li">
+          <div class="portfolio-li-imgst">
+            <img class="portfolio-li-imgt6" src="../../../assets/images/projects/6.png" alt="" srcset="">
+          </div>
+          <div class="portfolio-li-cont animate__animated animate__fadeIn">
+            <img class="portfolio-li-cont-img" src="../../../assets/images/projects/dark-6.png" alt="" srcset="">
+            <div class="p-li-title">Nomad Capital</div>
+            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-con">
+              <img src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
+              <img src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
+              <img src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
+            </div>
+          </div>
+        </div>
+        <div class="portfolio-li">
+          <div class="portfolio-li-imgst" style="background-color: #EEE;">
+            <img class="portfolio-li-imgt7" src="../../../assets/images/projects/7.png" alt="" srcset="">
+          </div>
+          <div class="portfolio-li-cont animate__animated animate__fadeIn">
+            <img class="portfolio-li-cont-img" src="../../../assets/images/projects/dark-7.png" alt="" srcset="">
+            <div class="p-li-title">Nomad Capital</div>
+            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-con">
+              <img src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
+              <img src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
+              <img src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
+            </div>
+          </div>
+        </div>
+        <div class="portfolio-li">
+          <div class="portfolio-li-imgst">
+            <img class="portfolio-li-imgt8" src="../../../assets/images/projects/8.png" alt="" srcset="">
+          </div>
+          <div class="portfolio-li-cont animate__animated animate__fadeIn">
+            <img class="portfolio-li-cont-img" src="../../../assets/images/projects/dark-8.png" alt="" srcset="">
+            <div class="p-li-title">Nomad Capital</div>
+            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-con">
+              <img src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
+              <img src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
+              <img src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
+            </div>
+          </div>
+        </div>
+        <!-- 9 -->
+        <div class="portfolio-li">
+          <div class="portfolio-li-imgst" style="background-color: #EEE;">
+            <img class="portfolio-li-imgt9" src="../../../assets/images/projects/9.png" alt="" srcset="">
+          </div>
+          <div class="portfolio-li-cont animate__animated animate__fadeIn">
+            <img class="portfolio-li-cont-img" src="../../../assets/images/projects/dark-9.png" alt="" srcset="">
+            <div class="p-li-title">Nomad Capital</div>
+            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-con">
+              <img src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
+              <img src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
+              <img src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
+            </div>
+          </div>
+        </div>
+        <div class="portfolio-li">
+          <div class="portfolio-li-imgst">
+            <img class="portfolio-li-imgt10" src="../../../assets/images/projects/10.png" alt="" srcset="">
+          </div>
+          <div class="portfolio-li-cont animate__animated animate__fadeIn">
+            <img class="portfolio-li-cont-img" src="../../../assets/images/projects/dark-10.png" alt="" srcset="">
+            <div class="p-li-title">Nomad Capital</div>
+            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-con">
+              <img src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
+              <img src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
+              <img src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
+            </div>
+          </div>
+        </div>
+        <div class="portfolio-li">
+          <div class="portfolio-li-imgst" style="background-color: #EEE;">
+            <img class="portfolio-li-imgt11" src="../../../assets/images/projects/11.png" alt="" srcset="">
+          </div>
+          <div class="portfolio-li-cont animate__animated animate__fadeIn">
+            <img class="portfolio-li-cont-img" src="../../../assets/images/projects/dark-11.png" alt="" srcset="">
+            <div class="p-li-title">Nomad Capital</div>
+            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-con">
+              <img src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
+              <img src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
+              <img src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
+            </div>
+          </div>
+        </div>
+        <div class="portfolio-li">
+          <div class="portfolio-li-imgst">
+            <img class="portfolio-li-imgt12" src="../../../assets/images/projects/12.png" alt="" srcset="">
+          </div>
+          <div class="portfolio-li-cont animate__animated animate__fadeIn">
+            <img class="portfolio-li-cont-img" src="../../../assets/images/projects/dark-12.png" alt="" srcset="">
             <div class="p-li-title">Nomad Capital</div>
             <div class="p-li-txt">Description text instance, up to two lines</div>
             <div class="p-li-con">
@@ -267,6 +392,7 @@ export default defineComponent({
           height: 211px;
           border: 1px solid rgba(0, 0, 0, 0.10);
           background: #000;
+
           img {
             height: 39px;
             object-fit: cover;
@@ -346,8 +472,83 @@ export default defineComponent({
           background: #FFF;
 
           img {
-            height: 64px;
+            max-width: 159px;
+            max-height: 106px;
+            object-fit: contain;
           }
+
+          .portfolio-li-imgt1 {
+            width: 143px;
+            height: 40px;
+            object-fit: contain;
+          }
+
+          .portfolio-li-imgt2 {
+            width: 121px;
+            height: 40px;
+            object-fit: contain;
+          }
+
+          .portfolio-li-imgt3 {
+            width: 159px;
+            height: 32px;
+            object-fit: contain;
+          }
+
+          .portfolio-li-imgt4 {
+            width: 167px;
+            height: 36px;
+            object-fit: contain;
+          }
+
+          .portfolio-li-imgt5 {
+            width: 173px;
+            height: 40px;
+            object-fit: contain;
+          }
+
+          .portfolio-li-imgt6 {
+            width: 157px;
+            height: 36px;
+            object-fit: contain;
+          }
+
+          .portfolio-li-imgt7 {
+            width: 114px;
+            height: 64px;
+            object-fit: contain;
+          }
+
+          .portfolio-li-imgt8 {
+            width: 175px;
+            height: 40px;
+            object-fit: contain;
+          }
+
+          .portfolio-li-imgt9 {
+            width: 130px;
+            height: 32px;
+            object-fit: contain;
+          }
+
+          .portfolio-li-imgt10 {
+            width: 106px;
+            height: 106px;
+            object-fit: cover;
+          }
+
+          .portfolio-li-imgt11 {
+            width: 106px;
+            height: 106px;
+            object-fit: contain;
+          }
+
+          .portfolio-li-imgt12 {
+            width: 94px;
+            height: 94px;
+            object-fit: contain;
+          }
+
         }
 
         .portfolio-li-cont {
@@ -364,7 +565,8 @@ export default defineComponent({
           box-sizing: border-box;
 
           .portfolio-li-cont-img {
-            height: 20px;
+            height: 16px;
+            object-fit: cover;
           }
 
           .p-li-title {
@@ -405,4 +607,5 @@ export default defineComponent({
   }
 
 
-}</style>
+}
+</style>
