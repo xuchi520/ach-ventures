@@ -83,10 +83,15 @@ export default defineComponent({
         router.push('/Team')
       },
       goPortfolios(){
-        router.push('/Portfolios')
+        router.push('/Portfolios1')
       },
       goProjects(){
-        router.push('/Projects')
+        router.push({
+                name:'portfolios',
+                params:{
+                    no:2
+                }
+            })
       }
     }
     return {
