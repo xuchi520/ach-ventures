@@ -375,16 +375,17 @@ export default defineComponent({
     const queryRoute = useRoute()
     const data = reactive({})
     onActivated(() => {
-      console.log('aa', queryRoute.params.no)
       if (queryRoute.params.no == '2') {
         window.scrollTo(0, document.body.scrollHeight)
-
+      }else{
+        window.scrollTo(0, 0)
       }
     })
     onMounted(() => {
-      console.log(queryRoute.params.no)
       if (queryRoute.params.no == '2') {
         window.scrollTo(0, document.body.scrollHeight)
+      }else{
+        window.scrollTo(0, 0)
       }
     })
     const infoMethods = {
