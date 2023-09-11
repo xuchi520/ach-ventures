@@ -16,10 +16,11 @@
           </div>
           <div class="portfolio-li-con">
             <div class="p-li-title">Nomad Capital</div>
-            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-txt">An operator fund that provides hands-on assistance to help projects develop and scale.
+            </div>
             <div class="p-li-con">
-              <img src="../../../assets/images/svg/svg1.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/svg2.svg" alt="" srcset="">
+              <img @click="goLinck('https://nomadcapital.io/')" src="../../../assets/images/svg/svg1.svg" alt="" srcset="">
+              <img @click="goLinck('https://twitter.com/NomadCapital_io')" src="../../../assets/images/svg/svg2.svg" alt="" srcset="">
               <img src="../../../assets/images/svg/svg3.svg" alt="" srcset="">
             </div>
           </div>
@@ -30,11 +31,11 @@
           </div>
           <div class="portfolio-li-con">
             <div class="p-li-title">GEEKCARTEL</div>
-            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-txt">Venture & incubation DAO.</div>
             <div class="p-li-con">
-              <img src="../../../assets/images/svg/svg1.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/svg2.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/svg3.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.geekcartel.org/')" src="../../../assets/images/svg/svg1.svg" alt="" srcset="">
+              <img @click="goLinck('https://twitter.com/geek_cartel')" src="../../../assets/images/svg/svg2.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.linkedin.com/company/geekcartel')" src="../../../assets/images/svg/svg3.svg" alt="" srcset="">
             </div>
           </div>
         </div>
@@ -44,11 +45,11 @@
           </div>
           <div class="portfolio-li-con">
             <div class="p-li-title">MetaWeb Ventures</div>
-            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-txt">A global builder focused blockchain fund.</div>
             <div class="p-li-con">
-              <img src="../../../assets/images/svg/svg1.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/svg2.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/svg3.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.metaweb.vc/')" src="../../../assets/images/svg/svg1.svg" alt="" srcset="">
+              <img @click="goLinck('https://twitter.com/MetaWebVC')" src="../../../assets/images/svg/svg2.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.linkedin.com/company/metaweb-vc')" src="../../../assets/images/svg/svg3.svg" alt="" srcset="">
             </div>
           </div>
         </div>
@@ -58,11 +59,11 @@
           </div>
           <div class="portfolio-li-con">
             <div class="p-li-title">UpHonest Capital</div>
-            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-txt">An early-stage VC firm focused on partnering with great entrepreneurs to build global companies in the world's largest markets.</div>
             <div class="p-li-con">
-              <img src="../../../assets/images/svg/svg1.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/svg2.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/svg3.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.uphonestcapital.com/')" src="../../../assets/images/svg/svg1.svg" alt="" srcset="">
+              <img @click="goLinck('https://twitter.com/UpHonestCapital')" src="../../../assets/images/svg/svg2.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.linkedin.com/company/uphonest-capital/')" src="../../../assets/images/svg/svg3.svg" alt="" srcset="">
             </div>
           </div>
         </div>
@@ -72,11 +73,11 @@
           </div>
           <div class="portfolio-li-con">
             <div class="p-li-title">Draper Dragon</div>
-            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-txt">A cross-border venture fund that connects Silicon Valley and Asia.</div>
             <div class="p-li-con">
-              <img src="../../../assets/images/svg/svg1.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/svg2.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/svg3.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.uphonestcapital.com/')" src="../../../assets/images/svg/svg1.svg" alt="" srcset="">
+              <img  src="../../../assets/images/svg/svg2.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.linkedin.com/company/draper-dragon')" src="../../../assets/images/svg/svg3.svg" alt="" srcset="">
             </div>
           </div>
         </div>
@@ -86,11 +87,11 @@
           </div>
           <div class="portfolio-li-con">
             <div class="p-li-title">ShangBay Capital</div>
-            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-txt">A leading venture capital firm based in the heart of innovation.</div>
             <div class="p-li-con">
-              <img src="../../../assets/images/svg/svg1.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/svg2.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/svg3.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.shangbaycapital.com/')" src="../../../assets/images/svg/svg1.svg" alt="" srcset="">
+              <img @click="goLinck('https://twitter.com/shangbaycapital')" src="../../../assets/images/svg/svg2.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.linkedin.com/company/shangbaycapital')" src="../../../assets/images/svg/svg3.svg" alt="" srcset="">
             </div>
           </div>
         </div>
@@ -100,11 +101,11 @@
           </div>
           <div class="portfolio-li-con">
             <div class="p-li-title">IOSG Venture</div>
-            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-txt">A community-friendly and research-driven early-stage venture firm.</div>
             <div class="p-li-con">
-              <img src="../../../assets/images/svg/svg1.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/svg2.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/svg3.svg" alt="" srcset="">
+              <img @click="goLinck('https://iosg.vc/')" src="../../../assets/images/svg/svg1.svg" alt="" srcset="">
+              <img @click="goLinck('https://twitter.com/IOSGVC')" src="../../../assets/images/svg/svg2.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.linkedin.com/company/iosgvc')" src="../../../assets/images/svg/svg3.svg" alt="" srcset="">
             </div>
           </div>
         </div>
@@ -121,14 +122,14 @@
           <div class="portfolio-li-imgst">
             <img class="portfolio-li-imgt1" src="../../../assets/images/projects/1.png" alt="" srcset="">
           </div>
-          <div class="portfolio-li-cont animate__animated animate__fadeIn" >
+          <div class="portfolio-li-cont animate__animated animate__fadeIn">
             <img class="portfolio-li-cont-img" src="../../../assets/images/projects/dark-1.png" alt="" srcset="">
-            <div class="p-li-title">ShangBay Capital</div>
-            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-title">Spacex</div>
+            <div class="p-li-txt">SpaceX designs, manufactures and launches advanced rockets and spacecraft.</div>
             <div class="p-li-con">
-              <img src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.spacex.com/')" src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
+              <img @click="goLinck('https://twitter.com/SpaceX')" src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.linkedin.com/company/spacex')" src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
             </div>
           </div>
         </div>
@@ -139,12 +140,12 @@
           </div>
           <div class="portfolio-li-cont animate__animated animate__fadeIn">
             <img class="portfolio-li-cont-img" src="../../../assets/images/projects/dark-2.png" alt="" srcset="">
-            <div class="p-li-title">Nomad Capital</div>
-            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-title">Neuralink</div>
+            <div class="p-li-txt">Creating a general-purpose, high-bandwidth interface to the brain.</div>
             <div class="p-li-con">
-              <img src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
+              <img  @click="goLinck('https://neuralink.com/')" src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
+              <img  @click="goLinck('https://twitter.com/neuralink')" src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
+              <img  @click="goLinck('https://www.linkedin.com/company/neuralink')" src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
             </div>
           </div>
         </div>
@@ -155,12 +156,12 @@
           </div>
           <div class="portfolio-li-cont animate__animated animate__fadeIn">
             <img class="portfolio-li-cont-img" src="../../../assets/images/projects/dark-3.png" alt="" srcset="">
-            <div class="p-li-title">Nomad Capital</div>
-            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-title">Crypto.com</div>
+            <div class="p-li-txt">The world’s leading cryptocurrency platform.</div>
             <div class="p-li-con">
-              <img src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
+              <img @click="goLinck('https://crypto.com/')" src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
+              <img @click="goLinck('https://twitter.com/cryptocom')" src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.linkedin.com/company/cryptocom')" src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
             </div>
           </div>
         </div>
@@ -171,12 +172,12 @@
           </div>
           <div class="portfolio-li-cont animate__animated animate__fadeIn">
             <img class="portfolio-li-cont-img" src="../../../assets/images/projects/dark-4.png" alt="" srcset="">
-            <div class="p-li-title">Nomad Capital</div>
-            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-title">Gemini</div>
+            <div class="p-li-txt">The Regulated Crypto Exchange, Est 2014.</div>
             <div class="p-li-con">
-              <img src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.gemini.com/')" src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
+              <img @click="goLinck('https://twitter.com/Gemini')" src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.linkedin.com/company/geminitrust/')" src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
             </div>
           </div>
         </div>
@@ -186,12 +187,12 @@
           </div>
           <div class="portfolio-li-cont animate__animated animate__fadeIn">
             <img class="portfolio-li-cont-img" src="../../../assets/images/projects/dark-5.png" alt="" srcset="">
-            <div class="p-li-title">Nomad Capital</div>
-            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-title">Consensys</div>
+            <div class="p-li-txt">A complete suite of trusted products to build anything in Web3.</div>
             <div class="p-li-con">
-              <img src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
+              <img @click="goLinck('https://consensys.io/')" src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
+              <img @click="goLinck('https://twitter.com/Consensys')" src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.linkedin.com/company/consensys-software-inc')" src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
             </div>
           </div>
         </div>
@@ -201,12 +202,12 @@
           </div>
           <div class="portfolio-li-cont animate__animated animate__fadeIn">
             <img class="portfolio-li-cont-img" src="../../../assets/images/projects/dark-6.png" alt="" srcset="">
-            <div class="p-li-title">Nomad Capital</div>
-            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-title">OpenSea</div>
+            <div class="p-li-txt">OpenSea is the world's first and largest web3 marketplace for NFTs and crypto collectibles.</div>
             <div class="p-li-con">
-              <img src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
+              <img @click="goLinck('https://opensea.io/')" src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
+              <img @click="goLinck('https://twitter.com/opensea')" src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.linkedin.com/company/opensea-io')" src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
             </div>
           </div>
         </div>
@@ -216,12 +217,12 @@
           </div>
           <div class="portfolio-li-cont animate__animated animate__fadeIn">
             <img class="portfolio-li-cont-img" src="../../../assets/images/projects/dark-7.png" alt="" srcset="">
-            <div class="p-li-title">Nomad Capital</div>
-            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-title">Animoca Brands</div>
+            <div class="p-li-txt">Driving digital property rights via NFTs and gaming to build the open metaverse.</div>
             <div class="p-li-con">
-              <img src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.animocabrands.com/')" src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
+              <img @click="goLinck('https://twitter.com/animocabrands')" src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.linkedin.com/company/animoca-brands')" src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
             </div>
           </div>
         </div>
@@ -231,12 +232,12 @@
           </div>
           <div class="portfolio-li-cont animate__animated animate__fadeIn">
             <img class="portfolio-li-cont-img" src="../../../assets/images/projects/dark-8.png" alt="" srcset="">
-            <div class="p-li-title">Nomad Capital</div>
-            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-title">Alchemy Pay</div>
+            <div class="p-li-txt">Bridging the fiat and crypto global economies.</div>
             <div class="p-li-con">
-              <img src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
+              <img @click="goLinck('https://alchemypay.org/')" src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
+              <img @click="goLinck('https://twitter.com/AlchemyPay')" src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.linkedin.com/company/alchemypay/')" src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
             </div>
           </div>
         </div>
@@ -247,12 +248,12 @@
           </div>
           <div class="portfolio-li-cont animate__animated animate__fadeIn">
             <img class="portfolio-li-cont-img" src="../../../assets/images/projects/dark-9.png" alt="" srcset="">
-            <div class="p-li-title">Nomad Capital</div>
-            <div class="p-li-txt">Description text instance, up to two lines</div>
-            <div class="p-li-con">
-              <img src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
+            <div class="p-li-title" style="margin-top: 12px;">Ryder</div>
+            <div class="p-li-txt" style="font-size: 12px; margin-top: 12px;">A leading logistics & transportation company that provides supply chain, dedicated transportation, and commercial fleet management solutions.</div>
+            <div class="p-li-con" style="margin-top: 6px;">
+              <img @click="goLinck('https://www.ryder.com/en-us')" src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
+              <img @click="goLinck('https://twitter.com/rydersysteminc')" src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.linkedin.com/company/ryder-system-inc')" src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
             </div>
           </div>
         </div>
@@ -262,12 +263,12 @@
           </div>
           <div class="portfolio-li-cont animate__animated animate__fadeIn">
             <img class="portfolio-li-cont-img" src="../../../assets/images/projects/dark-10.png" alt="" srcset="">
-            <div class="p-li-title">Nomad Capital</div>
-            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-title">Bit.Store</div>
+            <div class="p-li-txt">One Crypto Card for All Your Web3 Needs</div>
             <div class="p-li-con">
-              <img src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
+              <img @click="goLinck('https://bit.store/')" src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
+              <img @click="goLinck('https://twitter.com/www_bit_store')" src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.linkedin.com/company/bitstoreofficial')" src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
             </div>
           </div>
         </div>
@@ -277,12 +278,12 @@
           </div>
           <div class="portfolio-li-cont animate__animated animate__fadeIn">
             <img class="portfolio-li-cont-img" src="../../../assets/images/projects/dark-11.png" alt="" srcset="">
-            <div class="p-li-title">Nomad Capital</div>
-            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-title">Kresko.fi</div>
+            <div class="p-li-txt" style="font-size: 12px; margin-top: 12px;"> A composable and capital efficient platform that makes wealth accessible on a mobile phone.</div>
             <div class="p-li-con">
-              <img src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.kresko.fi/')" src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
+              <img @click="goLinck('https://twitter.com/KreskoFi')" src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.linkedin.com/company/kreskolabs')" src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
             </div>
           </div>
         </div>
@@ -292,12 +293,12 @@
           </div>
           <div class="portfolio-li-cont animate__animated animate__fadeIn">
             <img class="portfolio-li-cont-img" src="../../../assets/images/projects/dark-12.png" alt="" srcset="">
-            <div class="p-li-title">Nomad Capital</div>
-            <div class="p-li-txt">Description text instance, up to two lines</div>
+            <div class="p-li-title">lifeform</div>
+            <div class="p-li-txt">Redefine Digital Citizen Identity.</div>
             <div class="p-li-con">
-              <img src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
-              <img src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
+              <img @click="goLinck('https://lifeform.cc/')" src="../../../assets/images/svg/dark-svg1.svg" alt="" srcset="">
+              <img @click="goLinck('https://twitter.com/Lifeformcc')" src="../../../assets/images/svg/dark-svg2.svg" alt="" srcset="">
+              <img @click="goLinck('https://www.linkedin.com/company/lifeformofficial/')" src="../../../assets/images/svg/dark-svg3.svg" alt="" srcset="">
             </div>
           </div>
         </div>
@@ -319,8 +320,13 @@ export default defineComponent({
     const data = reactive({})
     onMounted(() => {
 
+
     })
     const infoMethods = {
+      goLinck(url) {
+        const w = window.open("about:blank") as any;
+        w.location.href = url ? url : ''
+      }
 
     }
     return {
@@ -376,7 +382,6 @@ export default defineComponent({
     .portfolio-list {
       display: flex;
       flex-wrap: wrap;
-      align-items: center;
       justify-content: space-between;
       margin-top: 64px;
 
@@ -424,6 +429,7 @@ export default defineComponent({
               width: 20px;
               height: 20px;
               margin-right: 16px;
+              cursor: pointer;
             }
           }
         }
@@ -582,6 +588,9 @@ export default defineComponent({
           }
 
           .p-li-con {
+            position: absolute;
+            bottom: 16px;
+            left: 16px;
             display: flex;
             align-items: center;
             margin-top: 20px;
