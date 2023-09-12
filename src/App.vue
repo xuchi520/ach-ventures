@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <headerBar></headerBar>
+    <!-- <headerBar></headerBar> -->
     <router-view v-if="isRouterAlive"></router-view>
     <footerBar></footerBar>
   </div>
